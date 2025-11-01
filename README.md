@@ -1,1 +1,1 @@
-This project is about solving the water crisis in a hypothetical country called Maji Ndogo. The charts show water access by by genders and children and how sources of water were distributed in rural and urban areas. It was part of the Data Analytics Course by ALX Africa.
+This project is about solving the water crisis in a hypothetical country called Maji Ndogo. The charts show water access by genders and children, and how sources of water were distributed in rural and urban areas. It was part of the Data Analytics Course by ALX Africa.
